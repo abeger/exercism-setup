@@ -1,0 +1,14 @@
+AllCops:
+  Exclude:
+    - '*/*_test.rb'
+    - '**/Gemfile'
+    - '**/Guardfile'
+
+  DisplayCopNames: true
+  DisplayStyleGuide: true
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: false

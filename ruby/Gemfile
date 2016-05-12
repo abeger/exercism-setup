@@ -1,0 +1,10 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+gem "rubocop"
+gem "guard-preek"
+gem "guard"
+gem "guard-minitest"
+gem "guard-rubocop"
+gem "guard-yield"
+gem "guard-shell"
